@@ -24,4 +24,4 @@
 <img width="1309" height="976" alt="image" src="https://github.com/user-attachments/assets/747bde13-b35c-4983-a166-8fabd92957f6" />
 
 # RESULT :
-The commands are successfully compiled in RetHat Lab(Terminal)
+The commands are successfully compiled in RetHat Lab(Terminal)  
